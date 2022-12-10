@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /** Класс тестирования Point3d */
-public class Lab1 {
+public class Lab2 {
     // точка входа в программу
     public static void main(String[] args) {
         Point3d[] points = new Point3d[3];
